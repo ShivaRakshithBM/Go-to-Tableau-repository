@@ -7,9 +7,9 @@ Final:
 A Tableau workbook is present, which serves as a go to repository for any visualizations required
 
 Questions:
-1)	What are the type of graphs required?
-2)	What are the use case for each visualization?
-3)	What are the limitations and advantages of each visualization?
+1) What are the type of graphs required?
+2) What are the use case for each visualization?
+3) What are the limitations and advantages of each visualization?
 
 Approach:
 
@@ -17,10 +17,10 @@ Data preparation:
 Dummy clean data was created for each visualization created
 
 Dashboard creation:
-1)	The pen and paper version of each visualization was created
-2)	The visualization was recreated in Tableau
-3)	The use cases, limitations and advantages were displayed under the visualizations
-4)	The end to end Quality check (QC) of the dashboard was done
+1) The pen and paper version of each visualization was created
+2) The visualization was recreated in Tableau
+3) The use cases, limitations and advantages were displayed under the visualizations
+4) The end to end Quality check (QC) of the dashboard was done
 
 Consumption:
 The dashboard was shared with the client. This was used by the client for their presentations and projects. Also, it was shared with other teams of Mu Sigma for its usage.
